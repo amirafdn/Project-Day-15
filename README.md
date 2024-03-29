@@ -17,7 +17,7 @@ Script menggunakan pandas
 - Sutriana Dina Uli Manurung (Politeknik Negeri Medan)
 
 ---
-# **Task 1: Basic OOP**
+**Task 1: Basic OOP**
 
 Buatlah class MarketingDataETL yang memiliki tiga metode:
 
@@ -28,7 +28,7 @@ Buatlah class MarketingDataETL yang memiliki tiga metode:
 *   store(): akan menyimpan data yang telah ditransformasi ke dalam struktur data DataFramet.
 
 ---
-# **Task 2: Inheritance & Polymorphism**
+**Task 2: Inheritance & Polymorphism**
 
 *   Gunakan inheritance untuk membuat class TargetedMarketingETL yang mewarisi dari MarketingDataETL.
 *   Tambahkan metode segment_customers() yang mengelompokkan pelanggan berdasarkan kriteria tertentu (misalnya, pengeluaran total atau kategori produk yang dibeli).
