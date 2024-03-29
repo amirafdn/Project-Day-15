@@ -1,2 +1,10 @@
 # Project-Day-15
-Upload Project Python 5 OOP
+Project Python 5 OOP
+Membersihkan data marketing_data.csv menggunakan prinsip OOP.
+
+Prinsip OOP yang akan digunakan:
+Basic OOP
+Inheritance
+Polymorphism
+
+Script dapat menggunakan pandas
